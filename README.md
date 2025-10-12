@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @HabibShehu007
-- 👀 I’m interested in Front-end development ...
-- 🌱 I’m currently learning html,css and Javascript ...
-- 💞️ I’m looking to collaborate on html,css and Javascript ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
+<p align="center">
+  🚀 <b> Frontend Developer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, and Tailwind Specialist.</b>
+</p>
 
-<!---
-HabibShehu007/HabibShehu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ My Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,firebase,git,github,vite" />
+</p>
+
+---
+
+### 🌟 Snapshot
+- ⚡ Delivered 3 **real-world business websites**  
+- 🎯 Built **20+ React + Tailwind projects**  
+- 💡 Focused on **clean, scalable, user-first apps**  
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
