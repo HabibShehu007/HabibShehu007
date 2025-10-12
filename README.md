@@ -23,8 +23,8 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://github.com/sinsydev"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/sinsy-dev" target="_blank">
+  <a href="https://github.com/HabibShehu007"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/habib-shehu" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   <a href="https://sinsydev.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"/></a>
