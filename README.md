@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm  Ismail[Sinsydev]</h1>
+<h1 align="center">👋 Hi, I'm  Habib Shehu[_devhabeeb]</h1>
 <p align="center">
-  🚀 <b> Frontend Developer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, and Tailwind Specialist.</b>
+  🚀 <b> Frontend Developer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, Tailwind and Node.js Specialist.</b>
 </p>
 
 ---
 
 ### 🛠️ My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,firebase,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,firebase,git,github,vite,Node.js" />
 </p>
 
 ---
