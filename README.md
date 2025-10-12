@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm  Habib Shehu[_devhabeeb]</h1>
+<h1 align="center">👋 Hi, I'm  Habib Shehu[devhabeeb]</h1>
 <p align="center">
   🚀 <b> Frontend Developer | JS, React, Typescript , Firebase, Git, RESTFUL APIs, UI/UX, Tailwind and Node.js Specialist.</b>
 </p>
