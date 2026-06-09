@@ -12,7 +12,9 @@
 
 ### 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,vite,nodejs,express,fastify,postgresql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,vite,nodejs,express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="48" width="48" style="margin-left: 10px; vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github" />
 </p>
 
 ---
@@ -44,5 +46,13 @@ I don't just write code; I build functional solutions for real-world problems. M
 
   <a href="https://wa.me/2349130710700" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
