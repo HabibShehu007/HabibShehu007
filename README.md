@@ -32,13 +32,6 @@ I don't just write code; I build functional solutions for real-world problems. M
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://github.com/HabibShehu007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/habib-shehu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
   <a href="mailto:habibshehuoooo7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -48,11 +41,11 @@ I don't just write code; I build functional solutions for real-world problems. M
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/@Dev_habeb" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/@dev_habib7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
